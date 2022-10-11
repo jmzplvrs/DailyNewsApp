@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Breaking News</string>
+    <string name="daily_news">Daily News</string>
+    <string name="created_by">Created By:</string>
+    <string name="name">Jomel Polvorosa</string>
+    <string name="philippines">Philippines</string>
+    <string name="api_key">b2035419089646dea3fec84ce18d1d4b</string>
+</resources>
